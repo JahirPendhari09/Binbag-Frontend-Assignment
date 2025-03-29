@@ -10,6 +10,11 @@ This is a Task Management web application where users can create, view, sort, fi
 - **State Management**: Redux
 - **CSS Framework**: Tailwind CSS
 
+
+# Deployed Applicaion
+
+[Deployed App](https://binbag-frontend-assignment.netlify.app/)
+
 # How to Run <br/>
  
 
