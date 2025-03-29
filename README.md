@@ -11,9 +11,9 @@ This is a Task Management web application where users can create, view, sort, fi
 - **CSS Framework**: Tailwind CSS
 
 
-# Deployed Applicaion
+# Deployed Application
 
-[Deployed App](https://binbag-frontend-assignment.netlify.app/)
+[Netlify deployed link](https://binbag-frontend-assignment.netlify.app/)
 
 # How to Run <br/>
  
