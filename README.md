@@ -37,7 +37,7 @@ This is a Task Management web application where users can create, view, sort, fi
 
 
    # Loom Presentation
-   [Loom Presentation Video]()
+   [Loom Presentation Video](https://www.loom.com/share/dca70c748eeb4104be6c7542d074910c?sid=7f636992-d05c-4948-a527-7883e096dedf)
 
     
    # Credits <br/>
